@@ -1,5 +1,9 @@
 # Note Taker
 
+https://notetakerappheroku.herokuapp.com/
+
+![Appinaction](assets/notetaker.gif)
+
 ## User Story
 
 AS A user, I want to be able to write and save notes
